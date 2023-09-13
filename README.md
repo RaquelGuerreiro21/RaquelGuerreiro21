@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Raquel Guerreiro
 
-- 🔭 Atualmente eu trabalho com front-end
-- 🌱 Estudando Desing gráfico / HTML,CSS e JS
+- 🔭 futura dev full-stack
+- 🌱 Estudando engenharia da computação
 - 😄 Pronomes: ela/dela
 
 <div style="display: inline_block"><br>
