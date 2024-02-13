@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Raquel Guerreiro
 
-- 🔭 futura dev full-stack
+- 🔭 Dev full-stack
 - 🌱 Estudando engenharia da computação
 - 😄 Pronomes: ela/dela
 
