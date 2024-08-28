@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Raquel Guerreiro
 
-- 🔭 Dev full-stack
-- 🌱 Estudando engenharia da computação
-- 😄 Pronomes: ela/dela
+- 🔭 Back-End and Mechine Learning
+- 🌱 Estudando engenharia de Software
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Raquel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
